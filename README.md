@@ -1,4 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow
 
-I am furthering my education by taking CSC 560 and completing this assignment. 
+I am furthering my education by taking CSC6210 and completing this assignment. 
